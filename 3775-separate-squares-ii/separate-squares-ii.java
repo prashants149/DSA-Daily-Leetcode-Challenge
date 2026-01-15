@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     static class Event implements Comparable<Event> {
         int y, x1, x2, type;
